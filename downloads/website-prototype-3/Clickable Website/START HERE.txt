@@ -1,0 +1,10 @@
+Website Prototype 3
+
+Open index.html in your browser. Keep this folder and its assets together.
+
+Browse the home, blog, articles, activity library and sample activity pages. Self-guided reflection and local plan downloads work without a server.
+
+Live surveys collect real cross-device responses on the hosted website: https://connection-toolkit-prototype-3.labsocialdecisions.chatgpt.site
+The hosted website is private; access permission and an internet connection are required.
+
+Original Stanford workshop and research files were used as references only and are not included. Author and contact fields are placeholders.
